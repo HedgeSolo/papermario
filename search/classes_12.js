@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['tattleanimframe_0',['TattleAnimFrame',['../tattle__window_8c.html#structTattleAnimFrame',1,'']]],
+  ['tattlewindowfxdata_1',['TattleWindowFXData',['../effects_8h.html#structTattleWindowFXData',1,'']]],
+  ['texturehandle_2',['TextureHandle',['../model_8h.html#structTextureHandle',1,'']]],
+  ['textureheader_3',['TextureHeader',['../common__structs_8h.html#structTextureHeader',1,'']]],
+  ['throwspinyfxdata_4',['ThrowSpinyFXData',['../effects_8h.html#structThrowSpinyFXData',1,'']]],
+  ['thunderboltringfxdata_5',['ThunderboltRingFXData',['../effects_8h.html#structThunderboltRingFXData',1,'']]],
+  ['titledatafile_6',['TitleDataFile',['../world_2area__kmr_2kmr__21_2main_8c.html#structTitleDataFile',1,'']]],
+  ['titledatastruct_7',['TitleDataStruct',['../state__title__screen_8c.html#structTitleDataStruct',1,'']]],
+  ['titlemenudatastruct_8',['TitleMenuDataStruct',['../titlemenu_8c.html#structTitleMenuDataStruct',1,'']]],
+  ['transformationdata_9',['TransformationData',['../sneaky__parasol_8c.html#structTransformationData',1,'']]],
+  ['trigger_10',['Trigger',['../structTrigger.html',1,'']]],
+  ['trigger_2e_5f_5funnamed7_5f_5f_11',['Trigger.__unnamed7__',['../common__structs_8h.html#unionTrigger_8____unnamed7____',1,'']]],
+  ['trigger_2elocation_12',['Trigger.location',['../common__structs_8h.html#unionTrigger_8location',1,'']]],
+  ['triggerblueprint_13',['TriggerBlueprint',['../structTriggerBlueprint.html',1,'']]],
+  ['trumpetplantdata_14',['TrumpetPlantData',['../entity_8h.html#structTrumpetPlantData',1,'']]],
+  ['tubbaheartattackfxdata_15',['TubbaHeartAttackFXData',['../effects_8h.html#structTubbaHeartAttackFXData',1,'']]],
+  ['tweesterdata_16',['TweesterData',['../entity_8h.html#structTweesterData',1,'']]],
+  ['tweesterphysics_17',['TweesterPhysics',['../common__structs_8h.html#structTweesterPhysics',1,'']]]
+];
